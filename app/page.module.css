@@ -1,0 +1,29 @@
+.page {
+  padding: 20px;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+  width: 100px;
+}
+
+.ctas {
+  margin-top: 20px;
+}
+
+.primary {
+  color: white;
+  background-color: black;
+}
+
+.secondary {
+  color: gray;
+}
+
+.footer {
+  margin-top: 40px;
+}
